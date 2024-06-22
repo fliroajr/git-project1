@@ -1,2 +1,4 @@
 const w = 'whatsapp'
-console.log(w)
+const p = 'payment'
+const d = 'debtor'
+console.log(m)
